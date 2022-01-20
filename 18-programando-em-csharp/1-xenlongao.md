@@ -21,7 +21,3 @@ Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procur
 | Exemplo de Entrada | Exemplo de Saída |
 | ------------------ | ---------------- |
 | 1 7                | 5                |
-
-|      |      |
-| ---- | ---- |
-|      |      |
